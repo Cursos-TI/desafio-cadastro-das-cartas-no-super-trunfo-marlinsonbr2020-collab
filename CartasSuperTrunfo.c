@@ -146,4 +146,5 @@ int main(){
     else{
     printf("super poder da carta 2 venceu\n");  
     }
+    
 }
